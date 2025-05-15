@@ -13,14 +13,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ricardo02325&show_icons=true&theme=tokyonight&locale=es" alt="Estadísticas de GitHub" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo02325&layout=compact&theme=tokyonight&locale=es" alt="Lenguajes más usados" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ricardo02325&theme=tokyonight&locale=es" alt="Racha de contribuciones" />
-</p>
-
 ---
 
 ### 🚀 Proyectos actuales
